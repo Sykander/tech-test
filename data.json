@@ -32,6 +32,10 @@
             "purchasedAt": "2021-08-03T00:00:00.000Z"
           },
           {
+            "productId": "p02",
+            "purchasedAt": "2021-08-04T00:00:00.000Z"
+          },
+          {
             "productId": "p01",
             "purchasedAt": "2021-09-12T00:00:00.000Z"
           },
